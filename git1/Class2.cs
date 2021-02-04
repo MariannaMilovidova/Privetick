@@ -8,5 +8,8 @@ namespace git1
 {
     class Class2
     {
+        //Console.WriteLine("sfdgvsdgf");
+        //Console.WriteLine("sfdgvsdgf");
+        //Console.WriteLine("sfdgvsdgf");
     }
 }
